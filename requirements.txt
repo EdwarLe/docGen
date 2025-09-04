@@ -3,3 +3,4 @@ python-docx
 spacy
 Werkzeug
 gunicorn
+python-dotenv
